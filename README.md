@@ -17,6 +17,6 @@ The data I get is different (but that part is very easy to modify)
 
 If I had to do it again, I think I would use only scrapy and forget about the Steam API. Why? Well, the Steam API seems a bit outdated and there is data that is not being stored, such as Tags,Early Access, VR compatibility and now Steam Deck compatibility. It also allows a faster pulling rate than the Steam API which only allows 200 entries every 5 minutes (or something similar). However, it is true that it might contain some information which is not visible in the store.
 
-The notebooks with the exploratory data which contains extra plots, and of course the data istelf after cleaning can be found in kaggle, here: https://www.kaggle.com/datasets/vicentearce/steamdata
+The notebooks with the exploratory data which contains extra plots, and of course the data itself after cleaning can be found in kaggle, here: https://www.kaggle.com/datasets/vicentearce/steamdata
 
 The results are in the conclusions html.
