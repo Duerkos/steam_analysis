@@ -1,5 +1,6 @@
 # steam_analysis
 Conclusions here: https://duerkos.github.io/steam_analysis/
+
 As a pet project, I wanted to explore Steam data.
 
 The acquisition and cleaning are more documented here in github. In this dataset you can find the cleaned data, as well as some minor files that I extracted to support the analysis. I mainly extracted data from Steam API, Steam Spy (which at the end was not much useful), Steam Reviews API and the Steam web with a web-scraping tool ( https://scrapy.org/ )
